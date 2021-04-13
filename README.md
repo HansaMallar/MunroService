@@ -1,5 +1,5 @@
 # MunroService
-This is a sample Rest Application using Spring Boot using Java 1.8 + to sort and filter the munro data.
+This is a sample Rest Application using Spring Boot(Java 1.8 +) to sort and filter the munro data.
 
 # Can be run via 
 Eclipse
